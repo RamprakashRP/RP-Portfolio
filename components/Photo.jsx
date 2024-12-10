@@ -24,7 +24,7 @@ const Photo = () => {
                 style={{ top: '40%', left: '70%', transform: 'translate(-50%, -50%)' }}
             >
                 <Image
-                    src="/public/assets/photo.png"
+                    src="/assets/photo.png"
                     priority
                     quality={100}
                     fill
