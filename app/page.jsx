@@ -28,7 +28,8 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
-                <a href="/Resume.pdf" download className="tracking-wide flex items-center gap-2">
+                <a href=".
+                  /Resume.pdf" download className="tracking-wide flex items-center gap-2">
                   <span>Download CV</span>
                   <FiDownload className="text-xl" />
                 </a>
